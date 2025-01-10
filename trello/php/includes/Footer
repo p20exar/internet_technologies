@@ -1,7 +1,0 @@
-<!-- footer.php -->
-<footer>
-        <p>&copy; 2024 Task Manager. All rights reserved.</p>
-        <nav>
-            <a href="help.html">Help</a> | <a href="purpose.html">Purpose</a>
-        </nav>
-    </footer>
