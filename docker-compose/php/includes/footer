@@ -1,0 +1,9 @@
+<!-- footer.php -->
+<footer>
+
+<nav>
+<p>&copy; 2024 Task Manager |
+        <a href="help.html" style="text-decoration:none; color: #f7863f;">Help</a> |
+        <a href="purpose.html" style="text-decoration:none; color: #f7863f;">Purpose</a></p>
+    </nav>
+</footer>
